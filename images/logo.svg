@@ -1,0 +1,15 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>logo</title>
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke="#000000" ry="234.000003" rx="236.499994" id="svg_3" cy="242.000003" cx="306.499994" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#007fff"/>
+  <ellipse stroke="#000000" id="svg_7" ry="204.000005" rx="203.999996" cy="240.000001" cx="307.499996" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000"/>
+  <ellipse stroke="#000000" id="svg_8" ry="199.5" rx="196.999993" cy="238.500005" cx="306.999993" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#00007f"/>
+  <image transform="rotate(179.3206329345703 299.5,144.49998474121094) " stroke="null" xlink:href="images/circuito.png" id="svg_12" height="194.999976" width="208.999989" y="47" x="195"/>
+  <text font-style="normal" font-weight="bold" stroke="#000000" transform="matrix(6.608838024378751,0,0,5.306078944937332,-376.41394107000036,-238.15006477134182) " xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="24" id="svg_1" y="107.450984" x="90.280271" stroke-width="0" fill="#ffffff">M</text>
+  <text font-weight="bold" stroke="#000000" transform="matrix(8.369894143254001,0,0,5.617172290295868,-2032.05919636948,-1101.3021677448191) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_2" y="255.297959" x="288.425611" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff">G</text>
+  <ellipse id="svg_5" cy="59" cx="358" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000"/>
+  <ellipse id="svg_6" cy="54" cx="397" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000"/>
+ </g>
+</svg>
